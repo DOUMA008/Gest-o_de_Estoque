@@ -1,1 +1,1 @@
-Esse projeto foi a base inteira de python usando listas e dicionarios 
+Esse projeto foi a base inteira de python usando listas e dicionarios, sobre gestão de estoque com o objetivo de ter controle do estoque adicionando produtos com a gerencia de quantidade, preço, e informação de baixo estoque, facilitando um sistema de vendas, etc. Logo quando voce inicia irá aparecer o menu te dando as instruções de como adicionar um produto e de como ter o controle do que esta armazenado.
