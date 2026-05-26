@@ -1,1 +1,1 @@
-Sou o Vítor, estudante de ADS, realizei um projeto de gestão de estoque so a base de python usando dicionarios e listas 
+Esse projeto foi a base inteira de python usando listas e dicionarios 
